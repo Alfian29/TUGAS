@@ -3,7 +3,7 @@ Dashboard![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/dashb
 
 Profile![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/profile.png)
 
-Billing&Plans![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/billing&plans.png)
+Billing&Plans![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/Billing&Plans.png)
 
 Preferences![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/preferences.png)
 
