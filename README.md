@@ -3,6 +3,10 @@ Dashboard![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/dashb
 
 Profile![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/profile.png)
 
+Billing&Plans![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/billing&plans.png)
+
+Preferences![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/preferences.png)
+
 Kategori![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/kategori.png)
 
 Barang![alt text](https://github.com/Alfian29/TUGAS/blob/master/SSTugas/barang.png)
